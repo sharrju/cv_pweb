@@ -108,7 +108,7 @@ section.home img{
     position: absolute;
     width: 762.55px;
     height: 686.06px;
-    left: 622.79px;
+    left: 550px;
     top: 121px;
     transform: rotate(7.69deg);
 }
@@ -147,7 +147,7 @@ section.about h1{
 section.about img{
     float: right;
     position: absolute;
-    left: 1000px;
+    left: 900px;
     top: 900px;
 }
 
